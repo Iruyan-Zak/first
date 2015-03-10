@@ -1,0 +1,8 @@
+d:\users\yuri\desktop\documents\visual studio 2013\Projects\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+d:\users\yuri\desktop\documents\visual studio 2013\Projects\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+d:\users\yuri\desktop\documents\visual studio 2013\Projects\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+d:\users\yuri\desktop\documents\visual studio 2013\Projects\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+d:\users\yuri\desktop\documents\visual studio 2013\Projects\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+d:\users\yuri\desktop\documents\visual studio 2013\Projects\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+d:\users\yuri\desktop\documents\visual studio 2013\Projects\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+d:\users\yuri\desktop\documents\visual studio 2013\Projects\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
